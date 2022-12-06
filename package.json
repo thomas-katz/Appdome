@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "thomas-katz:registry": "https://npm.pkg.github.com"
+    "@thomas-katz:registry": "https://npm.pkg.github.com"
   }
   "scripts": {
     "test": "exit 0"
