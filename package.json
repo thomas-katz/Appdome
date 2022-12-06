@@ -1,0 +1,19 @@
+{
+  "name": "appdome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomas-katz/Appdome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomas-katz/Appdome/issues"
+  },
+  "homepage": "https://github.com/thomas-katz/Appdome#readme"
+}
